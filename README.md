@@ -68,4 +68,4 @@ This project reflects the core principles of Responsible AI and Explainable AI b
 
 ## Video Presentation
 
-Watch a short overview of the game and its features in this [video presentation](https://youtu.be/dTQ2_qMWbpI).
+Watch a short overview of the game and its features in this [video presentation](https://www.youtube.com/watch?v=BH-4nryS1f0).
