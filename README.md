@@ -20,6 +20,9 @@ This project reflects the core principles of Responsible AI and Explainable AI b
 - **Engaging Feedback System:** Scores and progress tracking for players.
 - **Customization Options:** Choose characters and personalize gameplay.
 
+![image](https://github.com/user-attachments/assets/5979c55d-223c-44f4-b4da-f4798d8915ed)
+
+
 ## Installation and Setup
 
 ### Prerequisites
