@@ -1,50 +1,86 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+Here’s the complete README.md file in markdown format:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```markdown
+# XAI Learning Game
 
-## Available Scripts
+An innovative interactive game designed to teach the principles of Explainable AI (XAI) through engaging scenarios and intuitive visualizations. This project uses SHAP (SHapley Additive exPlanations) to help players interpret model predictions and understand feature importance.
 
-In the project directory, you can run:
+## Motivation
 
-### `npm start`
+The game bridges the gap between XAI concepts and practical understanding. By turning complex ideas into an engaging learning experience, it empowers players to make informed decisions about AI-driven insights.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Artifact Overview
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project reflects the core principles of Responsible AI and Explainable AI by:
+- Providing an intuitive, hands-on learning experience.
+- Applying SHAP visualizations to new and interactive educational scenarios.
+- Promoting the use of XAI for education and outreach.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- **Interactive Gameplay:** Players navigate multiple levels, analyze model predictions, and make decisions based on feature explanations.
+- **XAI Integration:** Visualizations of SHAP values to interpret model outputs.
+- **Engaging Feedback System:** Scores and progress tracking for players.
+- **Customization Options:** Choose characters and personalize gameplay.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation and Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
+- Node.js and npm installed on your system.
 
-### `npm run eject`
+### Steps to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/xai-learning-game.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd xai-learning-game
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open your browser and navigate to `http://localhost:3000`.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to Play
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Choose a character and enter your name.
+2. Explore the level map and select a scenario.
+3. Review the dataset and select feature values.
+4. Analyze SHAP value visualizations for model interpretability.
+5. Make predictions and compare them with model outputs.
+6. Progress through levels to unlock new challenges and features.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+## Technologies Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **React:** For building user interfaces.
+- **TypeScript:** For enhancing code quality with static typing.
+- **Tailwind CSS:** For rapid and flexible UI styling.
+- **Recharts:** For dynamic SHAP value visualizations.
+- **Shadcn/ui:** For modern and accessible components.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# XAI-Learning-Game
->>>>>>> 0262de5ed69bb3662d106a28d641d3afdaba7a6b
+---
+
+## Acknowledgments
+
+- Inspired by real-world XAI use cases and scenarios.
+- Special thanks to the tools and open-source libraries used in this project.
+
+---
+
+## Video Presentation
+
+Watch a short overview of the game and its features in this [video presentation](https://youtu.be/dTQ2_qMWbpI).
