@@ -13,16 +13,12 @@ This project reflects the core principles of Responsible AI and Explainable AI b
 - Applying SHAP visualizations to new and interactive educational scenarios.
 - Promoting the use of XAI for education and outreach.
 
----
-
 ## Features
 
 - **Interactive Gameplay:** Players navigate multiple levels, analyze model predictions, and make decisions based on feature explanations.
 - **XAI Integration:** Visualizations of SHAP values to interpret model outputs.
 - **Engaging Feedback System:** Scores and progress tracking for players.
 - **Customization Options:** Choose characters and personalize gameplay.
-
----
 
 ## Installation and Setup
 
@@ -48,8 +44,6 @@ This project reflects the core principles of Responsible AI and Explainable AI b
    ```
 5. Open your browser and navigate to `http://localhost:3000`.
 
----
-
 ## How to Play
 
 1. Choose a character and enter your name.
@@ -59,8 +53,6 @@ This project reflects the core principles of Responsible AI and Explainable AI b
 5. Make predictions and compare them with model outputs.
 6. Progress through levels to unlock new challenges and features.
 
----
-
 ## Technologies Used
 
 - **React:** For building user interfaces.
@@ -69,14 +61,10 @@ This project reflects the core principles of Responsible AI and Explainable AI b
 - **Recharts:** For dynamic SHAP value visualizations.
 - **Shadcn/ui:** For modern and accessible components.
 
----
-
 ## Acknowledgments
 
 - Inspired by real-world XAI use cases and scenarios.
 - Special thanks to the tools and open-source libraries used in this project.
-
----
 
 ## Video Presentation
 
