@@ -1,6 +1,3 @@
-Here’s the complete README.md file in markdown format:
-
-```markdown
 # XAI Learning Game
 
 An innovative interactive game designed to teach the principles of Explainable AI (XAI) through engaging scenarios and intuitive visualizations. This project uses SHAP (SHapley Additive exPlanations) to help players interpret model predictions and understand feature importance.
