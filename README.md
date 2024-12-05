@@ -28,7 +28,7 @@ This project reflects the core principles of Responsible AI and Explainable AI b
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/xai-learning-game.git
+   git clone https://github.com/afraa-n/XAI-Learning-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
