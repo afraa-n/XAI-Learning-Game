@@ -32,7 +32,7 @@ This project reflects the core principles of Responsible AI and Explainable AI b
    ```
 2. Navigate to the project directory:
    ```bash
-   cd xai-learning-game
+   cd XAI-Learning-Game
    ```
 3. Install dependencies:
    ```bash
